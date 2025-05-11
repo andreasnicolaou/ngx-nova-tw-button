@@ -1,6 +1,6 @@
 {
   "name": "@andreasnicolaou/ngx-nova-tw-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable Tailwind CSS button directive for Angular applications with multiple style variants and theming support",
   "private": false,
   "publishConfig": {
