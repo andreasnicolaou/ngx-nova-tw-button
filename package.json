@@ -1,0 +1,38 @@
+{
+  "name": "@andreasnicolaou/ngx-nova-tw-button",
+  "version": "1.0.0",
+  "description": "A customizable Tailwind CSS button directive for Angular applications with multiple style variants and theming support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreasnicolaou/ngx-nova-tw-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreasnicolaou/ngx-nova-tw-button/issues"
+  },
+  "author": {
+    "name": "Andreas Nicolaou",
+    "email": "anicolaou66@gmail.com",
+    "url": "https://github.com/andreasnicolaou"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">=14.0.0 <20.0.0",
+    "@angular/core": ">=14.0.0 <20.0.0",
+    "tailwindcss": ">=3.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "angular",
+    "tailwind",
+    "button",
+    "directive",
+    "ui",
+    "component",
+    "standalone",
+    "tailwindcss",
+    "ngx"
+  ]
+}
