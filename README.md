@@ -171,6 +171,7 @@ To override default styles while preserving base functionality, use the BUTTON_P
 ```
 
 Both are merged with:
+
 ```typescript
 {
   'nova-tw-button': ['border', 'border-solid'],
